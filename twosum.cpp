@@ -1,3 +1,8 @@
+// 12/10/2024 first solution with two for-loops.
+
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
